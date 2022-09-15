@@ -11,13 +11,14 @@ We have created this app using Next.js, Node and web 3. For registration user en
 4. To run Node API server run 'npm run server' in new terminal window(servers has to run at the same time), it will run server at localhost:3001
 5. Create a '.env' file in root folder with values of:
 
-.env
+## .env
+
 GOOGLE_USER=your email // e.g abc@gmail.com
 GOOGLE_PASSWORD=your gmail app password // 12345678
 DOMAIN=your domain // e.g http://localhost:3000
 
 
-Gmail App Password Setup:
+## Gmail App Password Setup:
 1. Sign in to your gmail account.
 2. Go to Settings -> Security.
 3. Set up 2 Step verification.
