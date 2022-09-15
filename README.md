@@ -9,7 +9,7 @@ We have created this app using Next.js, Node and web 3. For registration user en
 2. To run this project properly you need to run Next.js development server and Node API server at the same time
 3. To run Next.js application run 'npm run dev' and open browser at localhost:3000
 4. To run Node API server run 'npm run server' in new terminal window(servers has to run at the same time), it will run server at localhost:3001
-5. Create a '.env' file in root folder with values of:
+5. Create a '.env' file in root folder by copying env[replace] or with values of:
 
 ## .env
 
